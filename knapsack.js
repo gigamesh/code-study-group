@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/unbounded-knapsack/problem
+
 function unboundedKnapsack(k, arr) {}
 
 unboundedKnapsack(12, [1, 6, 9]);
